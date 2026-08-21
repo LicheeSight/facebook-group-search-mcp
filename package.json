@@ -1,0 +1,28 @@
+{
+  "name": "facebook-group-search-mcp",
+  "version": "0.2.2",
+  "description": "Facebook Group Search MCP Server for Cursor, Claude Desktop, Windsurf, and VS Code",
+  "main": "index.js",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "facebook",
+    "facebook-group-search",
+    "cursor",
+    "claude",
+    "windsurf",
+    "copilot",
+    "agentbridge"
+  ],
+  "author": "LicheeSight",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LicheeSight/facebook-group-search-mcp.git"
+  },
+  "homepage": "https://github.com/LicheeSight/facebook-group-search-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/LicheeSight/facebook-group-search-mcp/issues"
+  }
+}

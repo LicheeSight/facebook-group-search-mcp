@@ -1,6 +1,6 @@
 # Facebook Group Search MCP Server
 
-[![Smithery](https://smithery.ai/badge/@licheesight/agentbridge)](https://smithery.ai/server/@licheesight/agentbridge)
+[![Smithery](https://smithery.ai/badge/LicheeSight/facebook-group-search-mcp)](https://smithery.ai/server/LicheeSight/facebook-group-search-mcp)
 [![npm version](https://img.shields.io/npm/v/@licheesight/agentbridge.svg?color=blue)](https://www.npmjs.com/package/@licheesight/agentbridge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-orange.svg)](https://modelcontextprotocol.io)
@@ -15,17 +15,17 @@ You can automatically install and configure this MCP server using the [Smithery 
 
 ### For Claude Desktop
 ```bash
-npx -y @smithery/cli install @licheesight/agentbridge --client claude
+npx -y @smithery/cli install LicheeSight/facebook-group-search-mcp --client claude
 ```
 
 ### For Cursor
 ```bash
-npx -y @smithery/cli install @licheesight/agentbridge --client cursor
+npx -y @smithery/cli install LicheeSight/facebook-group-search-mcp --client cursor
 ```
 
 ### For Windsurf / VS Code
 ```bash
-npx -y @smithery/cli install @licheesight/agentbridge --client vscode
+npx -y @smithery/cli install LicheeSight/facebook-group-search-mcp --client vscode
 ```
 
 ---
